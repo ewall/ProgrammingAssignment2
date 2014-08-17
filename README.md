@@ -1,3 +1,7 @@
+# Week 3, Programming Assignment 2
+
+## Assignment Details
+
 ### Introduction
 
 This second programming assignment will require you to write an R
@@ -103,3 +107,11 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+## My Comments
+
+My solution here is a pretty tight match with the instructor's sample code, nothing more complicated or exciting than that.
+
+However, I've added a testCacheSolve() method to put the code through the paces to confirm it's working as expected.
+
+*—Eric Wallace, 16 August 2014*
